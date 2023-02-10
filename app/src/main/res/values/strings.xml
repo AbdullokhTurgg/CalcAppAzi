@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CalcAppAzi</string>
+    <string name="ac">AC</string>
+    <string name="delete_number">⌫</string>
+    <string name="btn_operate_division">/</string>
+    <string name="btn_operand_dot">.</string>
+    <string name="btn_operate_answers">=</string>
+    <string name="btn_operate_addition">+</string>
+    <string name="btn_operate_multiplication">x</string>
+    <string name="btn_operate_subtraction">-</string>
+    <string name="btn_operand_0">0</string>
+    <string name="btn_operand_1">1</string>
+    <string name="btn_operand_2">2</string>
+    <string name="btn_operand_3">3</string>
+    <string name="btn_operand_4">4</string>
+    <string name="btn_operand_5">5</string>
+    <string name="btn_operand_6">6</string>
+    <string name="btn_operand_7">7</string>
+    <string name="btn_operand_8">8</string>
+    <string name="btn_operand_9">9</string>
+    <string name="btn_operand_bracket_1">)</string>
+    <string name="btn_operand_bracket_2">(</string>
+    <string name="input_error">Ошибка ввода!</string>
+</resources>
